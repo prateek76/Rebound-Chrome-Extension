@@ -1,5 +1,5 @@
 # Rebound-Chrome-Extension
-Read breaking news using chrome extension on a click
+Read news using chrome extension on a click
 
 
 ## Built With
