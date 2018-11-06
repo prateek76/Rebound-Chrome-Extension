@@ -11,7 +11,6 @@ Read news using chrome extension on a click
 
 ## Installation
 
-Windows & Linux:
 
 ```sh
 Open google chrome (or Opera/firefox)
