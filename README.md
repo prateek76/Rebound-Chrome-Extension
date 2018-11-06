@@ -14,7 +14,7 @@ Read breaking news using chrome extension on a click
 Windows & Linux:
 
 ```sh
-Open google chrome (or Opera/morzilla frefox)
+Open google chrome (or Opera/firefox)
 ```
 
 ```sh
